@@ -11,7 +11,7 @@ This repository contains automated End-to-End (E2E) tests for the [Saucedemo](ht
 
 The automation suite covers the complete user journey, including:
 
-![Playwright HTML Report](report.png)
+![Playwright HTML Report](Report.png)
 
 ### 1. Authentication
 - Valid login
